@@ -1,0 +1,26 @@
+{
+	"name": "@iskore/iskore",
+	"version": "1.0.0",
+	"description": "Auto-update GitHub profile",
+	"main": "index.js",
+	"scripts": {
+		"update-readme": "./scripts/update-readme.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/iSkore/iSkore.git"
+	},
+	"author": "Nick Soggin",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/iSkore/iSkore/issues"
+	},
+	"homepage": "https://github.com/iSkore/iSkore#readme",
+	"dependencies": {
+		"execa": "^5.0.0",
+		"got": "^11.8.1",
+		"graphql-request": "^3.3.0",
+		"numeral": "^2.0.6"
+	}
+}
