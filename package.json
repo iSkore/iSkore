@@ -4,7 +4,7 @@
 	"description": "Auto-update GitHub profile",
 	"main": "index.js",
 	"scripts": {
-		"update-readme": "./scripts/update-readme.js",
+		"update-readme": "node ./scripts/update-readme.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
