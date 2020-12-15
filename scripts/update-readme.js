@@ -1,8 +1,9 @@
-#!/usr/bin/env node
+const path             = require( 'path' );
+const { promises: fs } = require( 'fs' );
+
 const got               = require( 'got' );
-const path              = require( 'path' );
-const execa             = require( 'execa' );
 const numeral           = require( 'numeral' );
+const LightMap          = require( '@mi-sec/lightmap' );
 const { GraphQLClient } = require( 'graphql-request' );
 
 const rootPath = path.join( __dirname, '..' );
@@ -41,11 +42,13 @@ const rootPath = path.join( __dirname, '..' );
 
 	const { viewer: { repositories } } = gitHubResponse;
 
-	await execa( 'untoken', [
-		path.join( rootPath, './README.template.md' ),
-		path.join( rootPath, './README.md' ),
-		'--so_link', link,
-		'--so_reputation', numeral( reputation ).format( '0.0a' ),
-		'--gh_repos_count', repositories.totalCount
-	], { cwd: rootPath, preferLocal: true } );
+	const template = await fs.readFile( path.join( rootPath, './README.template.md' ), 'utf-8' );
+
+	const output = template.replace( new LightMap( [
+		[ /{{so_link}}/g, link ],
+		[ /{{so_reputation}}/g, numeral( reputation ).format( '0.0a' ) ],
+		[ /{{gh_repos_count}}/g, repositories.totalCount ]
+	] ) );
+
+	await fs.writeFile( path.join( rootPath, './README.md' ), output );
 } )();

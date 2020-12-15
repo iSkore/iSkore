@@ -18,7 +18,7 @@
 	},
 	"homepage": "https://github.com/iSkore/iSkore#readme",
 	"dependencies": {
-		"execa": "^5.0.0",
+		"@mi-sec/lightmap": "^0.1.9",
 		"got": "^11.8.1",
 		"graphql": "^15.4.0",
 		"graphql-request": "^3.3.0",
