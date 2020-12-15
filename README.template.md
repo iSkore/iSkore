@@ -1,5 +1,8 @@
 [![StackOverflow Reputation: {{so_reputation}}](https://img.shields.io/badge/StackOverflow-{{so_reputation}}-F27F33?logo=stackoverflow)]({{so_link}})
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/iskore/iskore/actions)
+[![Github followers](https://img.shields.io/github/followers/iskore?label=Followers)](https://github.com/iskore)
+[![Github followers](https://img.shields.io/badge/Repositories-{{gh_repos_count}}-2F363D?logo=github)](https://github.com/iskore)
+
 
 ### Hi there 👋
 
