@@ -1,4 +1,4 @@
-[![StackOverflow Reputation: 6.2k](https://img.shields.io/badge/StackOverflow-6.2k-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/4863783/iskore)
+[![StackOverflow Reputation: test](https://img.shields.io/badge/StackOverflow-6.2k-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/4863783/iskore)
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/iskore/iskore/actions)
 
 ### Hi there 👋
