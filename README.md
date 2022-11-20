@@ -4,7 +4,28 @@
 [![Github repositories](https://img.shields.io/badge/Repositories-28-2F363D?logo=github)](https://github.com/iskore)
 
 
-### Hi there 👋
+### iSkore
+
+> Sr. Software Development Engineer at Amazon Web Services
+
+Specialties:
+
+- Node.JS, C++, WebGL & WASM
+- Amazon Web Services
+- Geospatial
+
+Interests:
+
+- Open Source Software
+- IoT
+- Local and Edge Computing
+- Serverless Architectures
+
+- Fun:
+
+- Raspberry Pi things
+- Network security and protocol tooling
+- Developer tools
 
 <!--
 [StackOverflow](https://stackoverflow.com/users/4863783/iskore)
