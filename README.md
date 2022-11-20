@@ -28,8 +28,8 @@ Fun:
 - Developer tools
 
 <span>
-	<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=iskore&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
-	<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskore&layout=compact&langs_count=10&theme=dracula" />
+	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=iskore&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
+	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskore&layout=compact&langs_count=10&theme=dracula" />
 </span>
 
 <!--
