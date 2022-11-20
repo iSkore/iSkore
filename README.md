@@ -21,7 +21,7 @@ Interests:
 - Local and Edge Computing
 - Serverless Architectures
 
-- Fun:
+Fun:
 
 - Raspberry Pi things
 - Network security and protocol tooling
