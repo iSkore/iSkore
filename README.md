@@ -6,7 +6,7 @@
 
 ### iSkore
 
-> Sr. Software Development Engineer at Amazon Web Services
+> Sr. Geospatial Software Engineer at Amazon Web Services
 
 Specialties:
 
