@@ -5,7 +5,7 @@
 	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskore&layout=compact&langs_count=10&theme=dracula" />
 </span>
 
-[![StackOverflow Reputation: 7.2k](https://img.shields.io/badge/StackOverflow-7.2k-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/4863783/iskore)
+[![StackOverflow Reputation: 7.3k](https://img.shields.io/badge/StackOverflow-7.3k-F27F33?logo=stackoverflow)](https://stackoverflow.com/users/4863783/iskore)
 [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/iskore/iskore/actions)
 [![Github followers](https://img.shields.io/github/followers/iskore?label=Followers)](https://github.com/iskore)
 [![Github repositories](https://img.shields.io/badge/Repositories-28-2F363D?logo=github)](https://github.com/iskore)
